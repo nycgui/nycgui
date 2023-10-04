@@ -1,19 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nycollas+Nogueira;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nycollas+Nogueira;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nycgui&bg_color=0d1117&color=3CB371&line=3CB371&point=98FB98&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nycgui&bg_color=0d1117&color=DC143C&line=DC143C&point=E9967A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nycgui&theme=dark_dimmed&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nycgui&theme=monokai&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nycgui&show_icons=true&count_private=true&hide_border=true&title_color=3CB371&icon_color=3CB371&text_color=c9d1d9&bg_color=0d1117" alt="Nycollas Nogueira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycgui&layout=compact&hide_border=true&title_color=3CB371&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nycgui&show_icons=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&bg_color=0d1117" alt="Nycollas Nogueira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycgui&layout=compact&hide_border=true&title_color=DC143C&text_color=ffffff&bg_color=0d1117" />
 </div>
  
 &nbsp;
@@ -41,4 +41,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
